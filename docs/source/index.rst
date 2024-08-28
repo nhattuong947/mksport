@@ -1,22 +1,18 @@
 Welcome to Lumache's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`MKSport <https://thethao365.live/>`_ – Nhà cái cá cược trực tuyến uy tín hàng đầu Châu Á. Điểm nổi bật so với nhà cái khác nhờ tỉ lệ thắng cược cao, phần thưởng và quà tặng hấp dẫn. ở nhiều game như: Cá cược thể thao, game bài đổi thưởng, live casino, quay hũ, bắn cá và nhiều trò chơi khác… Đăng ký tài khoản MKSport nhận ưu đãi 88k liền tay.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa Chỉ: Hoàng Hoa Thám, Tân Bình , Thành phố Hồ Chí Minh, Việt Nam, 700000
 
-   This project is under active development.
+Hotline: (+84) 0388 666 88
 
-Contents
---------
+Email: mksportvn@support.com
 
-.. toctree::
+Website: https://thethao365.live/
 
-   usage
-   api
+Author: https://thethao365.live/tac-gia-ceo-kaytlyn-phan/
+
+#mksport #nhacaimksport #livecasino #cacuocbongda #quayhu #banca
